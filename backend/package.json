@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KaitoKiran/Example-Project/issues"
   },
-  "homepage": "https://github.com/KaitoKiran/Example-Project#readme"
+  "homepage": "https://github.com/KaitoKiran/Example-Project#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
