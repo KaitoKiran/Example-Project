@@ -1,5 +1,5 @@
 {
     "env": {
-        "MONGO_STRING":"to be added"
+        "MONGO_STRING":"mongodb+srv://Messenger_App:<password>@cluster0.lhtgs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     }
 }
