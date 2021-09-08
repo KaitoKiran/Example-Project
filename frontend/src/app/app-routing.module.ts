@@ -7,12 +7,12 @@ const routes: Routes = [
   {
     path: '',
     component: MessengerComponent,
-    data: { title: 'Dashboard' }
+    data: { title: 'Messenger' }
   },
   {
     path: 'login',
     component: LoginComponent,
-    data: { title: 'Dashboard' }
+    data: { title: 'Login' }
   }
 ];
 
